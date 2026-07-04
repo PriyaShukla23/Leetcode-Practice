@@ -16,4 +16,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/PriyaShukla23/Leetcode-Practice/tree/master/0031-next-permutation) |
+## String
+|  |
+| ------- |
+| [0008-string-to-integer-atoi](https://github.com/PriyaShukla23/Leetcode-Practice/tree/master/0008-string-to-integer-atoi) |
 <!---LeetCode Topics End-->
