@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/PriyaShukla23/Leetcode-Practice/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/PriyaShukla23/Leetcode-Practice/tree/master/0013-roman-to-integer) |
 ## Two Pointers
 |  |
 | ------- |
@@ -21,9 +22,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/PriyaShukla23/Leetcode-Practice/tree/master/0008-string-to-integer-atoi) |
+| [0013-roman-to-integer](https://github.com/PriyaShukla23/Leetcode-Practice/tree/master/0013-roman-to-integer) |
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/PriyaShukla23/Leetcode-Practice/tree/master/0013-roman-to-integer) |
 | [0326-power-of-three](https://github.com/PriyaShukla23/Leetcode-Practice/tree/master/0326-power-of-three) |
 ## Recursion
 |  |
