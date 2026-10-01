@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/PriyaShukla23/Leetcode-Practice/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/PriyaShukla23/Leetcode-Practice/tree/master/0031-next-permutation) |
+| [0051-n-queens](https://github.com/PriyaShukla23/Leetcode-Practice/tree/master/0051-n-queens) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/PriyaShukla23/Leetcode-Practice/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Hash Table
 |  |
@@ -57,4 +58,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/PriyaShukla23/Leetcode-Practice/tree/master/0020-valid-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/PriyaShukla23/Leetcode-Practice/tree/master/0051-n-queens) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/PriyaShukla23/Leetcode-Practice/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
